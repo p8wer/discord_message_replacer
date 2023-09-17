@@ -1,0 +1,9 @@
+{
+    "token": "YOUR_BOT_TOKEN_HERE",
+    "replacements": {
+        "://twitter.com/": "://vxtwitter.com/",
+        "://www.instagram.com/": "://www.ddinstagram.com/",
+        "://www.tiktok.com/": "://www.tiktxk.com/",
+        "://x.com/": "://vxtwitter.com/"
+    }
+}
