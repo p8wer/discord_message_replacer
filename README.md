@@ -9,4 +9,5 @@ What the bot will do, is that as soon as it detects a message that has any of th
 You could apply this functionaly for any part of a message, I've made this for a private server so we can send appropriately embed tweets in messages. Modify and change to your needs!
 
 Here's the bot with this script in action:
+
 ![71062ae064c0815416fa3bf544ea7823](https://github.com/p8wer/discord_message_replacer/assets/31834469/0c44087c-42b8-44d5-8ca8-c60f7946ea7c)
